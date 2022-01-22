@@ -1,0 +1,33 @@
+nav {
+  height: 50px;
+  background-color: darkslategray;
+}
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+}
+.left {
+  float: left;
+  height: 500px;
+  background-color: steelblue;
+  width: 30%;
+  text-align: center;
+}
+.right {
+  float: left;
+  background-color: darkkhaki;
+  height: 500px;
+  width: 70%;
+  text-align: center;
+}
+
+.card {
+  display: inline-block;
+  background-color: black;
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 35px;
+  margin-top: 50px;
+}
+.p {font-family: Arial, Helvetica, sans-serif;}
